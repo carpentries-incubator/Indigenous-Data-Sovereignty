@@ -1,23 +1,5 @@
----
-title: "Using Markdown"
-teaching: 10
-exercises: 2
----
+## 	Episode 1: Introduction to Indigenous Peoples 
 
-:::::::::::::::::::::::::::::::::::::: questions 
-
-- How do you write a lesson using Markdown and `{sandpaper}`?
-
-::::::::::::::::::::::::::::::::::::::::::::::::
-
-::::::::::::::::::::::::::::::::::::: objectives
-
-- Explain how to use markdown with The Carpentries Workbench
-- Demonstrate how to include pieces of code, figures, and nested challenge blocks
-
-::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Introduction
 
 This is a lesson created via The Carpentries Workbench. It is written in
 [Pandoc-flavored Markdown](https://pandoc.org/MANUAL.txt) for static files and
