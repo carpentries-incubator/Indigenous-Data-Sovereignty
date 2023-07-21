@@ -1,6 +1,6 @@
-## 	Episode 1: Introduction to Indigenous Peoples 
+# 	Episode 1: Introduction to Indigenous Peoples 
 
-### Summary and Setup
+# Summary and Setup
 
 
 - Who are Indigenous Peoples
