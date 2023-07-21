@@ -1,6 +1,8 @@
 # 	Episode 1: Introduction to Indigenous Peoples 
 
 # Summary and Setup
+By the end of this lesson, you will be able to:
+
 
 :::
 :::
