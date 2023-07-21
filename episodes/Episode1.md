@@ -1,5 +1,9 @@
 ## 	Episode 1: Introduction to Indigenous Peoples 
 
+: Brief Description: Terminology and history of Indigenous Peoples
+: Who are Indigenous Peoples, diversity, recognition
+: Urban Indigenous groups, unrecognized Indigenous groups, immigrant/migrant Indigenous groups
+
 
 This is a lesson created via The Carpentries Workbench. It is written in
 [Pandoc-flavored Markdown](https://pandoc.org/MANUAL.txt) for static files and
