@@ -2,6 +2,14 @@
 
 # Summary and Setup
 
+:::
+:::
+:::
+
+### Learning objectives
+
+
+
 
 - Who are Indigenous Peoples
 - 
