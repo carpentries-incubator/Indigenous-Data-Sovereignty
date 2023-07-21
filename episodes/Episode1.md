@@ -1,5 +1,11 @@
 ## 	Episode 1: Introduction to Indigenous Peoples 
 
+### Summary and Setup
+
+
+- Who are Indigenous Peoples
+- 
+
 ### Brief Description:
 - Terminology and history of Indigenous Peoples
 - Who are Indigenous Peoples, diversity, recognition
