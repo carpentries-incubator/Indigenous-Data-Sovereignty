@@ -1,6 +1,7 @@
 ## 	Episode 1: Introduction to Indigenous Peoples 
 
-- Brief Description: Terminology and history of Indigenous Peoples
+### Brief Description:
+- Terminology and history of Indigenous Peoples
 - Who are Indigenous Peoples, diversity, recognition
 - Urban Indigenous groups, unrecognized Indigenous groups, immigrant/migrant Indigenous groups
 
