@@ -1,25 +1,19 @@
 # 	Episode 1: Introduction to Indigenous Peoples 
 
 # Summary and Setup
-By the end of this lesson, you will be able to:
 
-
-:::
-:::
-:::
 
 ### Learning objectives
+By the end of this lesson, you will be able to:
 
-
-
-
-- Who are Indigenous Peoples
-- 
-
-### Brief Description:
 - Terminology and history of Indigenous Peoples
 - Who are Indigenous Peoples, diversity, recognition
 - Urban Indigenous groups, unrecognized Indigenous groups, immigrant/migrant Indigenous groups
+
+ 
+
+### Brief Description:
+
 
 
 
