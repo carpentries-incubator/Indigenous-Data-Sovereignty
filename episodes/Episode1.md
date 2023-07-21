@@ -6,6 +6,9 @@
 - Urban Indigenous groups, unrecognized Indigenous groups, immigrant/migrant Indigenous groups
 
 
+### Terminology and history of Indigenous Peoples
+
+
 ::::::::::::::::::::::::: We are building content above this line::::::::::::::::::::::::::::::::::::::::::: 
 
 
