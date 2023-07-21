@@ -8,6 +8,14 @@
 
 ### Terminology and history of Indigenous Peoples
 
+::::::::
+
+### Who are Indigenous Peoples, diversity, recognition
+
+::::::::
+
+### Urban Indigenous groups, unrecognized Indigenous groups, immigrant/migrant Indigenous groups
+
 
 ::::::::::::::::::::::::: We are building content above this line::::::::::::::::::::::::::::::::::::::::::: 
 
