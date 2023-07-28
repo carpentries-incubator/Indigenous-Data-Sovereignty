@@ -1,19 +1,21 @@
 ---
-title: "Using Markdown"
+title: "Introduction to Indigenous Peoples"
 teaching: 10
 exercises: 2
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- How do you write a lesson using Markdown and `{sandpaper}`?
+- Question 1?
+- Question 2?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- Explain how to use markdown with The Carpentries Workbench
-- Demonstrate how to include pieces of code, figures, and nested challenge blocks
+- Terminology and history of Indigenous Peoples
+- Who are Indigenous Peoples, diversity, recognition
+- Urban Indigenous groups, unrecognized Indigenous groups, immigrant/migrant Indigenous groups
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
