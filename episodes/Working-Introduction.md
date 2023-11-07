@@ -6,8 +6,11 @@ exercises: 2
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- Question 1?
-- Question 2?
+- Question 1: Who are the communities who comprise Indigenous Peoples?
+- Question 2: Why is it important for all data actors to understand Indigenous Peoples’ relationship to their data?
+- Question 3: How are Indigenous Peoples impacting data practices and policies at regional, national, and international levels?
+- Question 4: How are Indigenous Peoples’ applying data within their governance frameworks for their communities?
+- Question 5: What role can data actors play in assessing the potential benefits of using Indigenous data? What role can data actors play in mitigating continued harms of data misuse?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
