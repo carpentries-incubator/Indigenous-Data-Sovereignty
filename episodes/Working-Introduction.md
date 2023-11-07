@@ -23,17 +23,9 @@ teaching: 10
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Introduction
+## Motivations for taking the Indigenous Data Sovereignty Lesson
 
-What you need to know is that there are three sections required for a valid
-Carpentries lesson:
-
- 1. `questions` are displayed at the beginning of the episode to prime the
-    learner for the content.
- 2. `objectives` are the learning objectives for an episode displayed with
-    the questions.
- 3. `keypoints` are displayed at the end of the episode to reinforce the
-    objectives.
+When learning about and working with data, oftentimes the human aspect of the collection, analysis, and application of it has been forgotten or removed. For Indigenous Peoples’ data has not always been binary ones and zeros. The Indigenous Data Sovereignty Lesson and corresponding episodes have been created to bridge the historical disconnectedness of Indigenous Peoples’ and their data. Due to historical gaps, Indigenous Peoples’ and their data have been shown to be disconnected, misused, and presented within a deficit style framework. The application of Indigenous Data Sovereignty reestablishes the relationship of Indigenous Peoples to their data, while also honoring Indigenous worldviews and frameworks.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
