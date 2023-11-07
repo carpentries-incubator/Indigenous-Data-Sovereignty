@@ -11,7 +11,7 @@ Teaching: 10 minutes
 
 ## Objectives
 
-- Objective 1 - Provide the foundation for further episodes discussing…
+- Objective 1 - Provide the foundation for further episodes discussing Indigenous Peoples data
 - Objective 2 - Understand that Indigenous Peoples have diverse worldviews
 - Objective 3 - Understand how data actors impact Indigenous data
 - Objective 4 - Understand the outcomes of data when applied by Indigenous communities
