@@ -16,9 +16,12 @@ exercises: 2
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- Terminology and history of Indigenous Peoples
-- Who are Indigenous Peoples, diversity, recognition
-- Urban Indigenous groups, unrecognized Indigenous groups, immigrant/migrant Indigenous groups
+- Objective 1 - Provide the foundation for further episodes discussing…
+- Objective 2 - Understand that Indigenous Peoples have diverse worldviews
+- Objective 3 - Understand how data actors impact Indigenous data
+- Objective 4 - Understand the outcomes of data when applied by Indigenous communities
+- Objective 5 - Understand the importance of protecting Indigenous data held outside of Indigenous communities
+
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -47,34 +50,6 @@ associated with the lessons. They appear in the "Instructor View"
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::::::::::::::::::::::::::::::::::::: challenge 
-
-## Challenge 1: Can you do it?
-
-What is the output of this command?
-
-```r
-paste("This", "new", "lesson", "looks", "good")
-```
-
-:::::::::::::::::::::::: solution 
-
-## Output
- 
-```output
-[1] "This new lesson looks good"
-```
-
-:::::::::::::::::::::::::::::::::
-
-
-## Challenge 2: how do you nest solutions within challenge blocks?
-
-:::::::::::::::::::::::: solution 
-
-You can add a line with at least three colons and a `solution` tag.
-
-:::::::::::::::::::::::::::::::::
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Figures
@@ -85,15 +60,6 @@ You can use standard markdown for static figures with the following syntax:
 accessibility purposes'}`
 
 ![You belong in The Carpentries!](https://raw.githubusercontent.com/carpentries/logo/master/Badge_Carpentries.svg){alt='Blue Carpentries hex person logo with no text.'}
-
-## Math
-
-One of our episodes contains $\LaTeX$ equations when describing how to create
-dynamic reports with {knitr}, so we now use mathjax to describe this:
-
-`$\alpha = \dfrac{1}{(1 - \beta)^2}$` becomes: $\alpha = \dfrac{1}{(1 - \beta)^2}$
-
-Cool, right?
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
