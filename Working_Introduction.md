@@ -1,4 +1,4 @@
-# 	Episode 1: Introduction to Indigenous Peoples 
+# 	E
 
 # Summary and Setup
 Introduces the concepts and framework of Indigenous Data Sovereignty and Governance. Guided through an Indigenous lens, participants will learn foundational principles and tools for working in relation with Indigenous Peoples and Indigenous data. Participants will understand how data is applied to strengthen Indigenous governance and how that data is governed. 
