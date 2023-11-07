@@ -1,4 +1,4 @@
-Artificial Intelligence (AI): either a field, method, or tool that simulates human intelligence processes by machines, especially computer systems
+**bold**Artificial Intelligence (AI):**bold** either a field, method, or tool that simulates human intelligence processes by machines, especially computer systems
 
 Bias
 
