@@ -22,16 +22,9 @@ exercises: 2
 - Objective 4 - Understand the outcomes of data when applied by Indigenous communities
 - Objective 5 - Understand the importance of protecting Indigenous data held outside of Indigenous communities
 
-
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Introduction
-
-This is a lesson created via The Carpentries Workbench. It is written in
-[Pandoc-flavored Markdown](https://pandoc.org/MANUAL.txt) for static files and
-[R Markdown][r-markdown] for dynamic files that can render code into output. 
-Please refer to the [Introduction to The Carpentries 
-Workbench](https://carpentries.github.io/sandpaper-docs/) for full documentation.
 
 What you need to know is that there are three sections required for a valid
 Carpentries lesson:
@@ -42,13 +35,6 @@ Carpentries lesson:
     the questions.
  3. `keypoints` are displayed at the end of the episode to reinforce the
     objectives.
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
-
-Inline instructor notes can help inform instructors of timing challenges
-associated with the lessons. They appear in the "Instructor View"
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
