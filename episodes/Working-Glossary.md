@@ -1,88 +1,39 @@
----
-title: "Indigenous Peoples as Data Scientists"
-teaching: 10
-exercises: 2
----
+Artificial Intelligence (AI): either a field, method, or tool that simulates human intelligence processes by machines, especially computer systems
 
-:::::::::::::::::::::::::::::::::::::: questions 
+Bias
 
-- How do Indigenous Peoples define data?
+Machine Learning (ML): generally considered to be a subfield of artificial intelligence (AI) and computer science which focuses on the use of data and algorithm generation to simulate the learning processes of humans
 
-::::::::::::::::::::::::::::::::::::::::::::::::
+Data
 
-::::::::::::::::::::::::::::::::::::: objectives
+Data Actors: Human and non-human data users 
 
-- Define Indigenous definitions of data including relationship, kinship, stewardship
-- Colonial actions over Indigenous science and epistemicide
+Data Sharing Agreement:
 
-::::::::::::::::::::::::::::::::::::::::::::::::
+Indigenous Data: Digitized and non-digitized 
 
-## Introduction
+Indigenous Data Sovereignty (IDSov)
 
-Indigenous Peoples’ Relationships and/or Links to Data
+Indigenous Data Governance (IDGov)
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
+Indigenous Knowledges (IKs): traditional ways of understanding the world through generations of experiential learning and repeated observations, transmitted over time immemorial
 
-Inline instructor notes can help inform instructors of timing challenges
-associated with the lessons. They appear in the "Instructor View"
+Indigenous Peoples: global populations and communities of individuals worldwide who have retained their own cultural and historical knowledges over long periods despite colonial attempts
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+Institutional Review Board
 
-::::::::::::::::::::::::::::::::::::: challenge 
+Metadata
 
-## Challenge 1: Can you do it?
+Open Data
+Open Access
+Open Science
 
-What is the output of this command?
+Provenance
 
-```r
-paste("This", "new", "lesson", "looks", "good")
-```
+(Indigenous) Rightsholders
 
-:::::::::::::::::::::::: solution 
+Stakeholders
 
-## Output
- 
-```output
-[1] "This new lesson looks good"
-```
+Tribe/Tribal
 
-:::::::::::::::::::::::::::::::::
-
-
-## Challenge 2: how do you nest solutions within challenge blocks?
-
-:::::::::::::::::::::::: solution 
-
-You can add a line with at least three colons and a `solution` tag.
-
-:::::::::::::::::::::::::::::::::
-::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Figures
-
-You can use standard markdown for static figures with the following syntax:
-
-`![optional caption that appears below the figure](figure url){alt='alt text for
-accessibility purposes'}`
-
-![You belong in The Carpentries!](https://raw.githubusercontent.com/carpentries/logo/master/Badge_Carpentries.svg){alt='Blue Carpentries hex person logo with no text.'}
-
-## Math
-
-One of our episodes contains $\LaTeX$ equations when describing how to create
-dynamic reports with {knitr}, so we now use mathjax to describe this:
-
-`$\alpha = \dfrac{1}{(1 - \beta)^2}$` becomes: $\alpha = \dfrac{1}{(1 - \beta)^2}$
-
-Cool, right?
-
-::::::::::::::::::::::::::::::::::::: keypoints 
-
-- Use `.md` files for episodes when you want static content
-- Use `.Rmd` files for episodes when you need to generate output
-- Run `sandpaper::check_lesson()` to identify any issues with your lesson
-- Run `sandpaper::build_lesson()` to preview your lesson locally
-
-::::::::::::::::::::::::::::::::::::::::::::::::
-
-[r-markdown]: https://rmarkdown.rstudio.com/
+Tribal Sovereignty
