@@ -8,7 +8,7 @@
 
 **Data Actors:** Human and non-human data users 
 
-**Data Sharing Agreement:**
+**Data Sharing Agreement:** Legal or formal arrangements that determine the terms and conditions that define how organizations or indivduals can share data with eachother.
 
 **Indigenous Data:** Digitized and non-digitized 
 
