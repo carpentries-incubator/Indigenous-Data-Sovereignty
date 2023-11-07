@@ -12,9 +12,9 @@
 
 **Indigenous Data:** Digitized and non-digitized 
 
-**Indigenous Data Sovereignty (IDSov):**
+**Indigenous Data Sovereignty (IDSov):** Indigenous Data Sovereignty (IDSov) asserts Indigenous Peoples’ rights to govern the creation, collection, ownership, and application of the data about, from, or connected to Intellectual Property (IP).
 
-**Indigenous Data Governance (IDGov):**
+**Indigenous Data Governance (IDGov):** is the mechanism for realising IDSov principles.
 
 **Indigenous Knowledges (IKs):** Traditional ways of understanding the world through generations of experiential learning and repeated observations, transmitted over time immemorial
 
