@@ -1,7 +1,6 @@
 ---
-title: "Introduction to Indigenous Peoples"
+title: "Introduction to Indigenous Data Sovereignty Lesson"
 teaching: 10
-exercises: 2
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
@@ -49,10 +48,9 @@ accessibility purposes'}`
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
-- Use `.md` files for episodes when you want static content
-- Use `.Rmd` files for episodes when you need to generate output
-- Run `sandpaper::check_lesson()` to identify any issues with your lesson
-- Run `sandpaper::build_lesson()` to preview your lesson locally
+- Key Point 1: Indigenous Peoples define data...
+- Key Point 2: Indigenous Peoples have historically been disconnected or misconstrued...
+- Key Point 3: The application of IDSov...
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
