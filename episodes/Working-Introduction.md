@@ -17,22 +17,9 @@ Teaching: 10 minutes
 - Objective 4 - Understand the outcomes of data when applied by Indigenous communities
 - Objective 5 - Understand the importance of protecting Indigenous data held outside of Indigenous communities
 
-::::::::::::::::::::::::::::::::::::::::::::::::
-
 ## Motivations for taking the Indigenous Data Sovereignty Lesson
 
 When learning about and working with data, oftentimes the human aspect of the collection, analysis, and application of it has been forgotten or removed. For Indigenous Peoples’ data has not always been binary ones and zeros. The Indigenous Data Sovereignty Lesson and corresponding episodes have been created to bridge the historical disconnectedness of Indigenous Peoples’ and their data. Due to historical gaps, Indigenous Peoples’ and their data have been shown to be disconnected, misused, and presented within a deficit style framework. The application of Indigenous Data Sovereignty reestablishes the relationship of Indigenous Peoples to their data, while also honoring Indigenous worldviews and frameworks.
-
-::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Figures
-
-You can use standard markdown for static figures with the following syntax:
-
-`![optional caption that appears below the figure](figure url){alt='alt text for
-accessibility purposes'}`
-
-![You belong in The Carpentries!](https://raw.githubusercontent.com/carpentries/logo/master/Badge_Carpentries.svg){alt='Blue Carpentries hex person logo with no text.'}
 
 ## Keypoints 
 
