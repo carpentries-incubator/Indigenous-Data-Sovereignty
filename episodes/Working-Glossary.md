@@ -1,8 +1,8 @@
 **Artificial Intelligence (AI):** either a field, method, or tool that simulates human intelligence processes by machines, especially computer systems
 
-Bias
+**Bias:**
 
-Machine Learning (ML): generally considered to be a subfield of artificial intelligence (AI) and computer science which focuses on the use of data and algorithm generation to simulate the learning processes of humans
+**Machine Learning (ML):** generally considered to be a subfield of artificial intelligence (AI) and computer science which focuses on the use of data and algorithm generation to simulate the learning processes of humans
 
 Data
 
