@@ -24,18 +24,18 @@
 
 **Metadata:**
 
-Open Data
+**Open Data:**
 
-Open Access
+**Open Access:**
 
-Open Science
+**Open Science:**
 
-Provenance
+**Provenance:**
 
-(Indigenous) Rightsholders
+**(Indigenous) Rightsholders:**
 
-Stakeholders
+**Stakeholders:**
 
-Tribe/Tribal
+**Tribe/Tribal:**
 
-Tribal Sovereignty
+**Tribal Sovereignty:**
