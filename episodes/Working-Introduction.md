@@ -1,9 +1,7 @@
----
-title: "Introduction to Indigenous Data Sovereignty Lesson"
-teaching: 10
----
+# Introduction to Indigenous Data Sovereignty Lesson
+Teaching: 10 minutes
 
-:::::::::::::::::::::::::::::::::::::: questions 
+## Questions 
 
 - Question 1: Who are the communities who comprise Indigenous Peoples?
 - Question 2: Why is it important for all data actors to understand Indigenous Peoples’ relationship to their data?
@@ -11,9 +9,7 @@ teaching: 10
 - Question 4: How are Indigenous Peoples’ applying data within their governance frameworks for their communities?
 - Question 5: What role can data actors play in assessing the potential benefits of using Indigenous data? What role can data actors play in mitigating continued harms of data misuse?
 
-::::::::::::::::::::::::::::::::::::::::::::::::
-
-::::::::::::::::::::::::::::::::::::: objectives
+## Objectives
 
 - Objective 1 - Provide the foundation for further episodes discussing…
 - Objective 2 - Understand that Indigenous Peoples have diverse worldviews
@@ -38,12 +34,8 @@ accessibility purposes'}`
 
 ![You belong in The Carpentries!](https://raw.githubusercontent.com/carpentries/logo/master/Badge_Carpentries.svg){alt='Blue Carpentries hex person logo with no text.'}
 
-::::::::::::::::::::::::::::::::::::: keypoints 
+## Keypoints 
 
 - Key Point 1: Indigenous Peoples define data...
 - Key Point 2: Indigenous Peoples have historically been disconnected or misconstrued...
 - Key Point 3: The application of IDSov...
-
-::::::::::::::::::::::::::::::::::::::::::::::::
-
-[r-markdown]: https://rmarkdown.rstudio.com/
