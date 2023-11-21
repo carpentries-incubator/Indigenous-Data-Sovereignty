@@ -1,19 +1,24 @@
 ---
-title: "Using Markdown"
+title: "Indigenous Peoples 101"
 teaching: 10
 exercises: 2
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- How do you write a lesson using Markdown and `{sandpaper}`?
+- Who are Indigenous Peoples?
+- How are Indigenous People recognized globally?
+- How does the recognition of Indigenous People impact their access to data?
+- What international policies apply to Indigenous People?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- Explain how to use markdown with The Carpentries Workbench
-- Demonstrate how to include pieces of code, figures, and nested challenge blocks
+- Understand terminology that applies to Indigenous Peoples 
+- Recognize the diversity of Indigenous Peoples
+- Understand that Indigenous Peoples are located throughout the world, in every country
+- Understand international policy applicable to Indigenous People
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
