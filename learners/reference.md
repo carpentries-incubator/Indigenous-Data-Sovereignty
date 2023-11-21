@@ -12,7 +12,7 @@ either a field, method, or tool that simulates human intelligence processes by m
 **Machine Learning (ML):** 
 generally considered to be a subfield of artificial intelligence (AI) and computer science which focuses on the use of data and algorithm generation to simulate the learning processes of humans
 
-**Data**
+**Data:** are qualitiative or quantitative information in a digital or analog format that serve as a foundation for generating insights as they are processed and interpreted.
 
 **Data Actors:** 
 Human and non-human data users 
